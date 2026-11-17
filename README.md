@@ -12,8 +12,7 @@ I'm passionate about **Aerospace Propulsion**, and I deepen my knowledge every d
 - 🌡️ Energy (Thermodynamics & Heat Transfer) : 1st & 2nd Law of Thermo, Entropy & Basics of Heat Transfer, Conduction, Convection.
 - ✈️ Aircraft Engines Structures : Gas Turbine Engine, Turbomachinery, Engine Components and Performance.
 
-📫 Reach me
-- 💼 LinkedIn: [Abdul Rahman Ibrahim Abou](www.linkedin.com/in/abdulrahmanibrahimabou)
+
 <!--
 **AbdulRahman-Prop-Eng/AbdulRahman-Prop-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
